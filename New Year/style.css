@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background: url('./KeMDXA2xJbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button {
+    font-size: 2rem;
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.card {
+    color: rgb(92, 21, 139);
+    background-color: rgb(112, 225, 112);
+    font-size: 1.5rem;
+    padding: 20px;
+    border-radius: 17px;
+    margin: 20px;
+text-align: center;
+}
